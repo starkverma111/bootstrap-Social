@@ -4,7 +4,7 @@
 
 Explore my latest Work Bootstrap 5.3 Social Icons Components with a sleek minimalist design, including a helpful Cheat Sheet.
 
-#### https://starkverma111.github.io/
+#### https://starkverma111.github.io/bootstrap-Social/
 
 `Social Icons Components | Bootstrap 5.3 `
 
