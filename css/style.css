@@ -1,0 +1,135 @@
+      body {
+        background-color: #dee2e6;
+      }
+
+      .container {
+        background-color: #fff;
+		width:60%;
+      }
+
+      h1 {
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 3rem;
+        font-weight: 600;
+        margin: 30px;
+      }
+
+      p {
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 18px;
+      }
+
+
+      /* Social Type zero here */
+      .social-0 {
+        height: 40px;
+        width: 40px;
+        border-radius: 50px;
+        text-decoration: none;
+        color: #000;
+        font-size: 22px;
+      }
+
+      .social-0:hover {
+        color: #0d6efd;
+      }
+
+      /* Social Type one here */
+      .social-1 {
+        height: 40px;
+        width: 40px;
+        background-color: #343a40;
+        border-radius: 50px;
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .social-1:hover {
+        background-color: #d63384;
+      }
+
+      /* Social Type two here */
+      .social-2 {
+        height: 40px;
+        width: 40px;
+        border-radius: 50px;
+        text-decoration: none;
+        color: #343a40;
+        border: 1px solid #343a40;
+      }
+
+      .social-2:hover {
+        background-color: #343a40;
+        color: #fff;
+      }
+
+      /* Social Type three here */
+      .social-3 {
+        height: 40px;
+        width: 40px;
+        background-color: #343a40;
+        border-radius: 5px;
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .social-3:hover {
+        background-color: #d63384;
+      }
+
+      /* Social Type four here */
+      .social-4 {
+        height: 40px;
+        width: 40px;
+        border-radius: 5px;
+        text-decoration: none;
+        color: #343a40;
+        border: 1px solid #343a40;
+      }
+
+      .social-4:hover {
+        background-color: #343a40;
+        color: #fff;
+      }
+
+      /* Social Type five here */
+      .social-5 {
+        height: 40px;
+        width: 120px;
+        border-radius: 5px;
+        text-decoration: none;
+        color: #343a40;
+        border: 1px solid #343a40;
+      }
+
+      .social-5:hover {
+        background-color: #343a40;
+        color: #fff;
+      }
+
+      /* Social Type six here */
+      .social-6 {
+        height: 40px;
+        width: 120px;
+        border-radius: 5px;
+        text-decoration: none;
+        color: #343a40;
+        border: 1px solid #343a40;
+      }
+
+      .social-6:hover {
+        background-color: #343a40;
+        color: #fff;
+      }
+
+      .ss {
+        font-size: 12px;
+      }
+	  
+	  @media only screen and (max-width: 900px) {
+  .container {
+    
+	width: 100%;
+	overflow:hidden;
+  }
+}
